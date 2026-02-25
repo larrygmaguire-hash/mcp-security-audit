@@ -1,0 +1,8 @@
+{
+  "name": "mcp-security-audit",
+  "version": "1.0.0",
+  "description": "Security audit skill for third-party MCP server codebases",
+  "author": "Larry G. Maguire",
+  "license": "MIT",
+  "repository": "larrygmaguire/mcp-security-audit"
+}
